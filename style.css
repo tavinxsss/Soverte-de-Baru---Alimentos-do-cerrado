@@ -36,7 +36,7 @@ label {
 
 .index{
 
- background-image: url('banner.jpg');
+ background-image: url('Imagens/banner.jpg');
  background-size:cover;
 
 }
@@ -384,7 +384,7 @@ display:none;
 
 .index {
 
-background-image: url('sorvete.jpeg');
+background-image: url('Imagens/sorvete.jpeg');
 background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
