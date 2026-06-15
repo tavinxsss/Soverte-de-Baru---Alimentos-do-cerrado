@@ -5,6 +5,20 @@
  box-sizing: border-box;
 }
 
+body a {
+
+text-decoration: none;
+color:#B49372;
+
+}
+
+body a:hover {
+
+text-decoration:underline;
+
+
+}
+
 /*menu*/
 
 #menu-toggle {
